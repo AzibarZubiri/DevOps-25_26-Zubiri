@@ -1,0 +1,14 @@
+# Carpetas de configuración del sistema que no queremos en el repo
+.cache/
+.config/
+.local/
+.mozilla/
+.gitconfig
+
+# Si quieres ignorar la carpeta duplicada que subiste antes
+/Escritorio/DevOps/Workspace/GitHTML/
+
+# Ignorar archivos temporales de sistema o editores
+*.log
+*.tmp
+*.swp
