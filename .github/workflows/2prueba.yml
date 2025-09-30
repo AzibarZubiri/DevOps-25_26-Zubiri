@@ -9,4 +9,4 @@ jobs:
     name: prueba-workflow
     runs-on: ubuntu-latest
     steps: 
-      - run: echo "${{ github.event.repository.name }}"
+      - run: ls -l
